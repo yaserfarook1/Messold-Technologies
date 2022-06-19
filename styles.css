@@ -1,0 +1,90 @@
+
+
+.intro-1{
+  width: 15%;
+  margin: auto;
+  text-align: center;
+  position: relative;
+  right: 33rem;
+  top: 5rem;
+}
+.intro-2{
+  width: 15%;
+  margin: auto;
+  text-align: center;
+  position: relative;
+  left:18rem;
+  bottom: 4rem;
+}.intro-3{
+  width: 15%;
+  margin: auto;
+  text-align: center;
+  position: relative;
+  right:  50px;
+}
+.num-1{
+  color: #B09B71;
+  font-family: 'Nuosu SIL', serif;
+  font-size: 60px;
+  position: relative;
+  left: 10rem;
+  top: 5rem;
+}
+
+.num-2{
+  color: #B09B71;
+  font-family: 'Nuosu SIL', serif;
+  font-size: 60px;
+  position: relative;
+  left: 60rem;
+  bottom: 4rem;
+}
+.num-3{
+  color: #B09B71;
+  font-family: 'Nuosu SIL', serif;
+  font-size: 60px;
+  position: relative;
+  left: 39rem;
+
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+  text-align: center;
+  position: relative;
+  right: 33rem;
+  font-family: 'Montserrat', sans-serif;
+}
+.intro-4{
+
+  margin: auto;
+  text-align: center;
+  position: relative;
+  left: 19rem;
+  bottom: 26rem;
+}
+.num-4{
+  color: #B09B71;
+  font-family: 'Nuosu SIL', serif;
+  font-size: 100px;
+  position: relative;
+  left:60rem;
+  bottom: 25rem;
+}
+.intro-5{
+
+  margin: auto;
+  text-align: center;
+  position: relative;
+  left: 22rem;
+  bottom: 23rem;
+}
+.num-5{
+  color: #B09B71;
+  font-family: 'Nuosu SIL', serif;
+  font-size: 100px;
+  position: relative;
+  left:60rem;
+  bottom: 22rem;
+}
